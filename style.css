@@ -236,4 +236,10 @@ form fieldset{
 .linksu ul li:hover::after {
       width: 100%;
 }
+@media screen only(600px and 1000px)
+
+/*.abc{*/
+	/*background-image: linear-gradient(rgba(4, 9, 30, 0.3),rgba(4, 9, 30, 0.3)),url(sujim3.jpg);*/
+
+}
 
